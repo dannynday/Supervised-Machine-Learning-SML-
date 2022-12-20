@@ -20,9 +20,7 @@ This activity consists of the following subsections:
 
 * Predict a Logistic Regression Model with Resampled Training Data
 
-* Write a Credit Risk Analysis Report
-
-### Split the Data into Training and Testing Sets
+### 1.Split the Data into Training and Testing Sets
 
 1. Read the `lending_data.csv` data into a Pandas DataFrame.
 
@@ -34,7 +32,7 @@ This activity consists of the following subsections:
 
 4. Split the data into training and testing datasets by using `train_test_split`.
 
-### Create a Logistic Regression Model with the Original Data
+### 2.Create a Logistic Regression Model with the Original Data
 
 1. Fit a logistic regression model
 
@@ -48,7 +46,7 @@ This activity consists of the following subsections:
 
     * Print the classification report.
 
-### Predict a Logistic Regression Model with Resampled Training Data
+### 3.Predict a Logistic Regression Model with Resampled Training Data
 
 Here, I resampled the training data and then reevaluate the model. Specifically, I used `RandomOverSampler`.
 
