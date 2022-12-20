@@ -10,14 +10,6 @@ I used a logistic regression model to compare two versions of the dataset. First
 
 For both cases, I get the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-## Files
-
-Download the following files to help you get started:
-
-* [Module 12 Homework Files](Starter_Code.zip)
-
-- - -
-
 ## Steps
 
 This activity consists of the following subsections:
