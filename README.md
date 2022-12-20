@@ -1,4 +1,4 @@
-# Unit 12 - Credit Risk Classification
+# Credit Risk Classification
 
 ![Credit Risk](12-homework-image.png)
 
